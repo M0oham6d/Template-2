@@ -212,7 +212,7 @@ header .container nav .toggle-menu:hover+ul li a {
 /* start landing  */
 .landing {
     background-color: #16283b;
-    background-image: url(../images/landing.jpeg);
+    background-image: url("../images/landing.jpeg");
     height: 100vh;
     background-size: cover;
     position: relative;
@@ -614,7 +614,7 @@ header .container nav .toggle-menu:hover+ul li a {
     padding-bottom: 150px;
     text-align: center;
     background-color: #101d2b;
-    background-image: url("/images/about.jpg");
+    background-image: url("../images/about.jpg");
     background-size: cover;
     position: relative;
 }
@@ -844,7 +844,7 @@ header .container nav .toggle-menu:hover+ul li a {
     padding-top: var(--heading-padding);
     padding-bottom: var(--heading-padding);
     text-align: center;
-    background-image: url("/images/quote.jpg");
+    background-image: url("../images/quote.jpg");
     background-size: cover;
     position: relative;
     color: white;
@@ -984,7 +984,7 @@ header .container nav .toggle-menu:hover+ul li a {
     margin-top: 100px;
     padding-top: var(--heading-padding);
     padding-bottom: var(--heading-padding);
-    background-image: url("/images/sub.jpg");
+    background-image: url("../images/sub.jpg");
     background-size: cover;
     position: relative;
     color: white;
