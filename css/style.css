@@ -1200,7 +1200,9 @@ header .container nav .toggle-menu:hover+ul li a {
     margin-top: 20px;
     padding: 0 20px;
 }
-
+.footer .social a {
+    color: white;
+}
 .footer .copy {
     margin-top: 60px;
 }
