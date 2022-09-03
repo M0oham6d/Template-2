@@ -1162,6 +1162,7 @@ header .container nav .toggle-menu:hover+ul li a {
     }
     .contact .content input[type="submit"] {
         margin: 0 auto;
+        
     }
 }
 
